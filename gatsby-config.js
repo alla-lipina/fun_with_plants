@@ -14,11 +14,11 @@ module.exports = {
     social: [
       {
         name: `Instagram`,
-        url: `https://www.instagram.com/fun_with_plants/`,
+        url: `https://www.instagram.com/fun_with_plants`,
       },
       {
-        name: `Twitter`,
-        url: `https://www.instagram.com/fun_with_plants/`,
+        name: `Facebook`,
+        url: `https://www.facebook.com/Fun-with-Plants-109405257412074`,
       },
     ],
   },
