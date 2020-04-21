@@ -5,6 +5,12 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-86901256-2",
+      },
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
